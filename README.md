@@ -1,4 +1,4 @@
-# Feito oficialmente pela Laysa, por mais de 72 horas: Crie e implante um aplicativo Threads com funcionalidade de bate-papo em tempo real
+# Feito oficialmente pela Laysa, por menos de 48 horas: Crie e implante um aplicativo Threads com funcionalidade de bate-papo em tempo real
 
 Lista de recursos:
 
