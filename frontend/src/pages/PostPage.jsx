@@ -51,7 +51,7 @@ const PostPage = () => {
 				showToast("Error", data.error, "error");
 				return;
 			}
-			showToast("Success", "Postagem excluída", "success");
+			showToast("Success", "Postagem deletada.", "success");
 			navigate(`/${user.username}`);
 		} catch (error) {
 			showToast("Error", error.message, "error");
@@ -73,7 +73,7 @@ const PostPage = () => {
 		<>
 			<Flex>
 				<Flex w={"full"} alignItems={"center"} gap={3}>
-					<Avatar src={user.profilePic} size={"md"} name='Mark Zuckerberg' />
+					<Avatar src={user.profilePic} size={"md"} name='Laysa Ribeiro' />
 					<Flex>
 						<Text fontSize={"sm"} fontWeight={"bold"}>
 							{user.username}
@@ -83,7 +83,7 @@ const PostPage = () => {
 				</Flex>
 				<Flex gap={4} alignItems={"center"}>
 					<Text fontSize={"xs"} width={36} textAlign={"right"} color={"gray.light"}>
-						{formatDistanceToNow(new Date(currentPost.createdAt))} ago
+						{formatDistanceToNow(new Date(currentPost.createdAt))} atrás
 					</Text>
 
 					{currentUser?._id === user._id && (
@@ -109,9 +109,9 @@ const PostPage = () => {
 			<Flex justifyContent={"space-between"}>
 				<Flex gap={2} alignItems={"center"}>
 					<Text fontSize={"2xl"}>👋</Text>
-					<Text color={"gray.light"}>Laysa ama vocês.../Text>
+					<Text color={"gray.light"}>Oi, eu sou a Laysa.</Text>
 				</Flex>
-				<Button>Sigilo</Button>
+				<Button>Segredinhos</Button>
 			</Flex>
 
 			<Divider my={4} />
