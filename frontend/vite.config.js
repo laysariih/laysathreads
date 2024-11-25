@@ -9,7 +9,7 @@ export default defineConfig({
 		// Livra-se do erro CORS
 		proxy: {
 			"/api": {
-				target: "http://threads.aschopaa.com.br:5000",
+				target: "http://threads.aschopaa.com.br:4000",
 				changeOrigin: true,
 				secure: false,
 			},
