@@ -1,9 +1,8 @@
-# Threads UI Clone Youtube Tutorial
+# UMA REDE SOCIAL DESENVOLVIDO PELA LAYSA, BASEADO NA EMPRESA THREADS DO INSTAGRAM.
 
-### Built With React and Chakra UI
+### Construído com React e Chakra UI
 
-# [Tutorial](https://youtu.be/TW7wltm4gD8)
 
-# [App Demo](https://threads-clone-yt.vercel.app/)
+# [Visualização em tempo real](https://threads.aschopaa.com.br)
 
-![Screenshot of App](https://i.ibb.co/bsJ6jf6/Screenshot-5.png)
+![Imagens do Projeto](https://i.ibb.co/bsJ6jf6/Screenshot-5.png)
