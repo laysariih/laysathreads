@@ -1,8 +1,18 @@
-# UMA REDE SOCIAL DESENVOLVIDO PELA LAYSA, BASEADO NA EMPRESA THREADS DO INSTAGRAM.
+# Feito oficialmente pela Laysa, por menos de 48 horas: Crie e implante um aplicativo Threads com funcionalidade de bate-papo em tempo real
 
-### Construído com React e Chakra UI
+Lista de recursos:
 
-
-# [Visualização em tempo real](https://threads.aschopaa.com.br)
-
-![Imagens do Projeto](https://i.ibb.co/bsJ6jf6/Screenshot-5.png)
+- 🌟 Pilha de tecnologia: MERN + Socket.io + Chakra UI
+- 🎃 Autenticação e autorização com JWT
+- 📝 Criar postagem
+- 🗑️ Excluir postagem
+- ❤️ Curtir/Não curtir postagem
+- 💬 Comente uma postagem
+- 👥 Seguir/deixar de seguir usuários
+- ❄️ Congelar sua conta
+- 🌓 Modo Escuro/Claro
+- 📱 Totalmente responsivo
+- 💬 Aplicativo de bate-papo com suporte de imagem
+- 👀 Status visto/invisível para mensagens
+- 🔊 Sons de notificação
+- ⭐ Implantação GRATUITA
