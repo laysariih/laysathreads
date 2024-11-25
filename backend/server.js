@@ -45,4 +45,4 @@ if (process.env.NODE_ENV === "production") {
 	});
 }
 
-server.listen(PORT, () => console.log(`Servidor iniciado em http://threads.aschopaa.com.br:${PORT}`));
+server.listen(PORT, () => console.log(`Servidor iniciado em https://threads.aschopaa.com.br:${PORT}`));
