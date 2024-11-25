@@ -6,10 +6,10 @@ export default defineConfig({
 	plugins: [react()],
 	server: {
 		port: 3000,
-		// Get rid of the CORS error
+		// Livra-se do erro CORS
 		proxy: {
 			"/api": {
-				target: "http://localhost:4000",
+				target: "http://threads.aschopaa.com.br:4000",
 				changeOrigin: true,
 				secure: false,
 			},
