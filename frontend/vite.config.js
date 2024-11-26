@@ -5,11 +5,11 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
 	plugins: [react()],
 	server: {
-		port: 3000,
+		port: 5000,
 		// Livra-se do erro CORS
 		proxy: {
 			"/api": {
-				target: "http://threads.aschopaa.com.br:4000",
+				target: "https://threads.aschopaa.com.br:5000",
 				changeOrigin: true,
 				secure: false,
 			},
