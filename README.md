@@ -1,6 +1,6 @@
 # Feito oficialmente pela Laysa, por menos de 48 horas: Crie e implante um aplicativo Threads com funcionalidade de bate-papo em tempo real
 
-# ATENÇÃO; Quais quer tipo de erros e bugs, falta de aplicações e funções, contatar no Instagram.
+# ATENÇÃO; Quais quer tipo de erros, bugs, falta de aplicações e funções, contatar no Instagram.
 
 Lista de recursos:
 
