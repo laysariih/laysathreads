@@ -1,5 +1,7 @@
 # Feito oficialmente pela Laysa, por menos de 48 horas: Crie e implante um aplicativo Threads com funcionalidade de bate-papo em tempo real
 
+# ATENÇÃO; Quais quer tipo de erros e bugs, falta de aplicações e funções, contatar no Instagram.
+
 Lista de recursos:
 
 - 🌟 Pilha de tecnologia: MERN + Socket.io + Chakra UI
@@ -23,7 +25,7 @@ Lista de recursos:
 
 ``` 
 PORT 4000 OU 3000 (Teste de acordo com seu provedor-web) - (Recomendado à 4000)
-MONGO_URI (https://mongodb.com) - (Modo Drivers, suportando essa aplicação e outras) - (Não esqueça de liberar o IP do seu provedor, ou autorizar todas as conexões independente)
+MONGO_URI (https://mongodb.com) - (Usar Atlas Sql, suportando essa aplicação e outras) - (Não esqueça de liberar o IP do seu provedor, ou autorizar todas as conexões independente)
 
 JWT_SECRET (https://jwt.io/) ou deixe a original para não ter que mexer na API toda. ( JzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6Ikpva )
 CLOUDNARY (https://cloudinary.com/) (O RESTANTE TAMBÉM SE ENCONTRA TUDO AQUI) 
